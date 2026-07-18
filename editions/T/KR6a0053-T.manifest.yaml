@@ -22,7 +22,7 @@ assets:
   - {seq: 0, filename: KR6a0053_000-T.yaml, hash: 'sha256:d6bf1e934b14c073d875a82d4ae288fd7f5ca1d7590e5fd5f4cfd7d0afe0363d'}
   - {seq: 1, filename: KR6a0053_001-T.yaml, hash: 'sha256:83cfefcad99cb6137b6db68875b09cb696538fe5978b4946bca5ea7d409239dc'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6a0053_000-T.markers.yaml, hash: 'sha256:5c4edc780a430e06af28ee6eaf6fc32691cebfeceffac7721dd2c4877e0f3f9a'}
+  - {seq: 0, role: markers, filename: assets/KR6a0053_000-T.markers.yaml, hash: 'sha256:0db3f429fcbe34c558d62c45712be4868ff87a79e6ff44684a47f3d51a3ce0d8'}
   - {seq: 1, role: markers, filename: assets/KR6a0053_001-T.markers.yaml, hash: 'sha256:2bfe3da668250f2761d1e579621257286146ec35a58c9c3520986bd1da98e36b'}
 table_of_contents:
 - ref:
@@ -35,4 +35,4 @@ table_of_contents:
   label: 佛說苦陰經
   type: juan
   level: 1
-hash: sha256:19bd7207900e9022b9abf4c3d4c51d553c4f2db0f5133705b63d25049e6b8a6c
+hash: sha256:458faa69c570d582d1da77cd050342d7784ce510fcd498d723d6b1fc3b6680a0

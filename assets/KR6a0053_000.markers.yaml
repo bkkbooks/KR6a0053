@@ -35,6 +35,7 @@ markers:
   - {type: punctuation, offset: 0, content: ), id: KR6a0053_T_000-bkkpn28}
   - {type: punctuation, offset: 0, content: ']', id: KR6a0053_T_000-bkkpn29}
   - {type: line-break, offset: 0, content: '', id: KR6a0053_T_000-0846c05, ed: T, 'n': 0846c05}
+  - {type: voice, offset: 0, length: 0, name: note, id: n1}
   body: []
   back: []
-hash: sha256:9002d8a9f4edd34e27e7bb13d8fdfeec15e3b8b0d01d0d033e78f0467c818228
+hash: sha256:6fef5a91579b3302e0fbecab340e26fb819dd5c74ef2531d7c5ae735952441a0
